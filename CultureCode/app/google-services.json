@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704492197241",
+    "project_id": "culturecode-8d4a1",
+    "storage_bucket": "culturecode-8d4a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704492197241:android:50173a0be84766bb92cba8",
+        "android_client_info": {
+          "package_name": "com.culturecode.main.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsQWI-lVfNrEbSzd1n1NGX-juOKWIxUxY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
